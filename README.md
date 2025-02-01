@@ -1,2 +1,2 @@
-# Week-1
-The Crop and Fertilization project deeply emphasizes on focusing recommendation about all the parameters regarding fertilization and different aspects of crops using Machine Learning.
+# Week-2
+Week-2 Updation on the project of AICTE Internship
